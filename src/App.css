@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,6 +24,9 @@
   color: white;
 }
 
+.products{
+  /* margin-bottom: 125px; */
+}
 .App-link {
   color: #61dafb;
 }
